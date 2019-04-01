@@ -1,0 +1,236 @@
+Timestamp,Cargo Scored,Team Number,Starting Platform,Game Piece Start,Sandstorm Hatch,Sandstorm Cargo,Ship Cargo,Ship Hatch,Rocket Cargo,Rocket Hatch,Dropped Cargo,Dropped Hatch,Total Cargo,Total Hatch,Total Points,Rocket Level,"Did they defend? If so, how well?",,HAB Level,Did they show?,Additional comments (optional),Hatches Scored
+3/16/2019 14:47,4,614,2,Hatch Panel,Neither,Neither,4,1,0,0,0,0,4,0,12,0,Did not defend,,2,Yes,,1
+3/17/2019 9:28,2,614,2,Hatch Panel,Neither,Neither,2,3,0,0,0,1,0,0,0,1,Did not defend,,1,Yes,,3
+3/16/2019 14:09,1,614,2,Hatch Panel,Cargo Ship,Neither,1,0,0,3,0,0,1,0,3,1,Did not defend,,2,Yes,,3
+3/16/2019 18:23,3,686,1,Hatch Panel,Cargo Ship,Neither,3,1,0,0,1,0,3,1,11,0,Good,,2,Yes,,1
+3/16/2019 12:12,3,686,1,Hatch Panel,Cargo Ship,Neither,3,1,0,0,2,1,3,2,13,0,Did not defend,,3,Yes,,1
+3/16/2019 16:29,3,686,1,Hatch Panel,Neither,Neither,3,0,0,0,0,2,3,0,9,0,Did not defend,,0,Yes,Can pick hatches up off ground but not well,0
+3/16/2019 17:11,2,686,1,Hatch Panel,Neither,Neither,2,0,0,0,1,1,2,1,8,0,Did not defend,,3,Yes,,0
+3/16/2019 14:47,1,686,1,Hatch Panel,Cargo Ship,Neither,1,0,0,0,1,0,1,1,5,0,Did not defend,,3,Yes,,0
+3/17/2019 9:40,1,686,2,Cargo,Neither,Neither,1,0,0,0,2,0,0,0,0,0,Did not defend,,3,Yes,Was defended by 4505,0
+3/16/2019 14:10,0,686,1,Hatch Panel,Rocket,Neither,0,1,0,2,0,0,0,0,0,1,Did not defend,,2,Yes,,3
+3/16/2019 15:48,0,686,1,Hatch Panel,Neither,Neither,0,0,0,2,0,2,0,0,0,1,Did not defend,,2,Yes,,2
+3/16/2019 15:06,3,836,1,Hatch Panel,Cargo Ship,Neither,2,2,1,2,0,0,3,1,11,1,Did not defend,,3,Yes,,4
+3/16/2019 17:24,3,836,1,Hatch Panel,Cargo Ship,Neither,2,2,1,2,0,0,3,1,11,1,Did not defend,,3,Yes,,4
+3/16/2019 16:55,2,836,1,Hatch Panel,Cargo Ship,Neither,0,1,2,2,1,1,2,3,12,1,Did not defend,,3,Yes,Also a really good controlled team,3
+3/16/2019 11:41,1,836,1,Hatch Panel,Cargo Ship,Neither,0,2,1,2,0,0,1,1,5,1,Did not defend,,3,,"Good climb, fast",4
+3/16/2019 14:33,0,836,1,Hatch Panel,Cargo Ship,Neither,0,2,0,2,0,0,0,0,0,1,Did not defend,,3,Yes,Quick at hatch,4
+3/16/2019 14:54,4,888,2,Cargo,Neither,Neither,4,0,0,1,0,0,4,0,12,1,Did not defend,,2,Yes,Couldn’t grab hatches well,1
+3/16/2019 16:35,4,888,2,Cargo,Neither,Neither,4,0,0,0,2,0,4,2,16,0,Did not defend,,1,Yes,,0
+3/16/2019 17:05,4,888,1,Cargo,Neither,Neither,4,0,0,0,2,0,4,2,16,0,Did not defend,,3,Yes,,0
+3/16/2019 11:04,3,888,2,Cargo,Neither,Cargo Ship,3,4,0,0,0,1,3,0,9,0,Did not defend,,0,,Very unstable,4
+3/16/2019 14:33,3,888,2,Cargo,Neither,Cargo Ship,3,0,0,0,1,0,3,1,11,0,Did not defend,,2,Yes,,0
+3/16/2019 18:31,2,888,2,Cargo,Neither,Cargo Ship,2,1,0,1,0,0,2,0,6,1,Did not defend,,3,Yes,"Pretty good, hi khang ",2
+3/16/2019 17:46,1,888,2,Cargo,Neither,Neither,1,0,0,0,0,0,1,0,3,0,Did not defend,,3,Yes,,0
+3/16/2019 14:33,4,1111,1,Hatch Panel,Cargo Ship,Neither,4,1,0,1,1,0,4,1,14,1,Did not defend,,0,Yes,,2
+3/16/2019 15:21,4,1111,1,Hatch Panel,Cargo Ship,Neither,4,1,0,1,0,0,4,0,12,1,Did not defend,,1,Yes,,2
+3/17/2019 9:53,4,1111,1,Hatch Panel,Cargo Ship,Neither,3,1,1,1,0,0,0,0,0,1,Did not defend,,1,Yes,,2
+3/16/2019 14:32,4,1111,1,Hatch Panel,Cargo Ship,Neither,4,0,0,1,1,0,4,1,14,1,Did not defend,,0,Yes,,1
+3/16/2019 12:40,3,1111,1,Hatch Panel,Cargo Ship,Neither,3,1,0,0,2,0,3,2,13,0,Did not defend,,0,Yes,,1
+3/16/2019 18:23,0,1111,1,Hatch Panel,Cargo Ship,Neither,0,1,0,3,0,0,0,0,0,2,Did not defend,,0,Yes,,4
+3/16/2019 15:41,0,1111,1,Hatch Panel,Neither,Neither,0,1,0,1,0,0,0,0,0,1,Did not defend,,1,Yes,,2
+3/16/2019 11:45,0,1111,1,Hatch Panel,Neither,Neither,0,1,0,0,0,0,0,0,0,0,Did not defend,,1,,,1
+3/17/2019 9:53,3,1389,1,Cargo,Neither,Cargo Ship,3,0,0,0,1,0,0,0,0,0,Did not defend,,1,Yes,,0
+3/16/2019 17:04,2,1389,1,Cargo,Neither,Neither,2,0,0,0,0,0,2,0,6,0,Poor,,1,Yes,I couldn’t see very well,0
+3/16/2019 14:25,2,1389,2,Cargo,Neither,Neither,2,0,0,0,2,0,2,2,10,0,Did not defend,,1,Yes,,0
+3/16/2019 16:21,2,1389,1,Cargo,Neither,Neither,2,0,0,0,2,0,2,2,10,0,Did not defend,,0,Yes,,0
+3/16/2019 12:26,1,1389,1,Hatch Panel,Rocket,Neither,0,0,1,3,0,1,1,1,5,2,Did not defend,,0,Yes,,3
+3/16/2019 15:28,1,1389,2,Cargo,Neither,Neither,1,0,0,0,1,0,1,1,5,0,Mediocre,,1,Yes,,0
+3/17/2019 9:21,0,1389,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,0,Yes,,0
+3/17/2019 9:37,4,1629,1,Hatch Panel,Both,Neither,4,1,0,3,0,0,0,0,0,2,Did not defend,,3,Yes,,4
+3/16/2019 17:17,4,1629,1,Hatch Panel,Cargo Ship,Neither,4,0,0,1,0,0,4,0,12,1,Did not defend,,3,Yes,,1
+3/16/2019 15:40,3,1629,1,Hatch Panel,Cargo Ship,Neither,3,0,0,3,0,0,3,0,9,3,Did not defend,,3,Yes,,3
+3/16/2019 14:54,1,1629,1,Hatch Panel,Cargo Ship,Neither,1,2,0,2,1,0,1,1,5,1,Did not defend,,Fell down,Yes,Decent with hatches but fell down,4
+3/16/2019 11:17,0,1629,1,Hatch Panel,Cargo Ship,Neither,0,4,0,0,0,0,0,0,0,0,Did not defend,,2,,,4
+3/16/2019 18:16,0,1629,1,Hatch Panel,Cargo Ship,Neither,0,1,0,2,1,0,0,1,2,2,Did not defend,,3,Yes,,3
+3/16/2019 12:40,3,1719,1,Hatch Panel,Neither,Neither,3,1,0,0,0,0,3,0,9,0,Did not defend,,3,Yes,,1
+3/16/2019 14:10,2,1719,1,Hatch Panel,Cargo Ship,Neither,0,1,2,2,0,0,2,2,10,2,Did not defend,,3,Yes,"Decent cycle time, good with hatches ",3
+3/16/2019 11:27,2,1719,1,Hatch Panel,Neither,Neither,2,1,0,1,0,1,2,0,6,1,Did not defend,,3,,Close to being under third,2
+3/16/2019 17:46,1,1719,1,Hatch Panel,Neither,Neither,1,1,0,0,0,3,1,0,3,0,Did not defend,,3,Yes,,1
+3/16/2019 15:00,0,1719,1,Hatch Panel,Neither,Neither,0,2,0,1,0,0,0,0,0,1,Did not defend,,2,Yes,,3
+3/16/2019 14:09,0,1719,1,Hatch Panel,Cargo Ship,Neither,0,1,0,1,0,0,0,0,0,1,Did not defend,,3,Yes,,2
+3/17/2019 9:27,0,1719,1,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,1,Did not defend,,3,Yes,,1
+3/17/2019 9:27,0,1719,1,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,1,Did not defend,,3,Yes,,1
+3/16/2019 18:38,6,2199,1,Hatch Panel,Cargo Ship,Neither,5,1,1,0,2,0,6,3,24,2,Did not defend,,3,Yes,"Best team, :(",1
+3/17/2019 9:53,4,2199,1,Hatch Panel,Cargo Ship,Neither,4,2,0,0,0,0,0,0,0,0,Did not defend,,3,Yes,,2
+3/16/2019 18:09,4,2199,1,Hatch Panel,Neither,Neither,0,0,4,0,1,1,4,5,22,0,Did not defend,,3,Yes,,0
+3/16/2019 14:53,3,2199,1,Hatch Panel,Neither,Neither,3,1,0,0,0,0,3,0,9,0,Did not defend,,3,Yes,,1
+3/16/2019 12:18,1,2199,1,Hatch Panel,Cargo Ship,Neither,1,1,0,2,1,0,1,1,5,1,Did not defend,,3,Yes,,3
+3/16/2019 16:06,0,2199,2,Neither,Neither,Neither,0,0,0,2,0,0,0,0,0,1,Did not defend,,3,Yes,,2
+3/16/2019 15:14,4,2377,2,Cargo,Neither,Cargo Ship,2,0,2,2,0,0,4,2,16,2,Did not defend,,1,Yes,,2
+3/16/2019 18:18,4,2377,2,Cargo,Neither,Cargo Ship,4,0,0,0,3,0,4,3,18,0,Did not defend,,1,Yes,"Complex mech, easy to drop balls/miss target",0
+3/16/2019 17:24,3,2377,2,Cargo,Neither,Cargo Ship,2,0,1,2,0,0,3,1,11,2,Did not defend,,0,Yes,Quickly Got a hatch in sandstorm,2
+3/16/2019 15:56,3,2377,2,Cargo,Neither,Cargo Ship,2,0,1,1,0,0,3,1,11,3,Did not defend,,1,Yes,"Pretty good at cargo, can’t pick up hatch ",1
+3/16/2019 18:37,1,2377,2,Cargo,Neither,Cargo Ship,0,1,1,1,0,0,1,1,5,2,Did not defend,,1,Yes,,2
+3/16/2019 16:48,4,2537,2,Cargo,Neither,Neither,3,0,1,0,0,0,4,1,14,1,Did not defend,,1,Yes,,0
+3/16/2019 18:38,4,2537,2,Cargo,Neither,Neither,3,0,1,0,0,0,4,1,14,1,Did not defend,,1,Yes,,0
+3/16/2019 15:06,3,2537,2,Cargo,Neither,Cargo Ship,3,0,0,0,0,0,3,0,9,0,Did not defend,,0,Yes,,0
+3/16/2019 17:11,1,2537,2,Cargo,Cargo Ship,Neither,1,0,0,0,1,0,1,1,5,0,Poor,,0,Yes,,0
+3/16/2019 15:36,0,2537,2,Cargo,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Good,,0,Yes,Decent defense. Were able to keep them from scoring,0
+3/16/2019 18:44,6,2849,2,Cargo,Neither,Cargo Ship,4,0,2,0,0,0,6,2,22,1,Did not defend,,1,Yes,"Good team, ILITE chose well, hi khang ",0
+3/16/2019 14:26,4,2849,2,Hatch Panel,Neither,Neither,4,0,0,0,3,1,4,3,18,0,Did not defend,,0,Yes,,0
+3/16/2019 16:13,3,2849,1,Hatch Panel,Neither,Neither,3,1,0,0,1,0,3,1,11,0,Did not defend,,1,Yes,,1
+3/16/2019 12:12,3,2849,2,Cargo,Neither,Neither,3,0,0,0,2,0,3,2,13,0,Did not defend,,1,Yes,,0
+3/16/2019 14:26,3,2849,2,Hatch Panel,Neither,Neither,3,0,0,0,3,0,3,3,15,0,Did not defend,,0,Yes,,0
+3/16/2019 15:14,3,2849,1,Hatch Panel,Neither,Neither,3,0,0,0,0,0,3,0,9,0,Did not defend,,1,Yes,,0
+3/16/2019 15:41,2,2849,1,Cargo,Neither,Neither,1,0,1,0,4,0,2,5,16,1,Did not defend,,1,Yes,,0
+3/16/2019 11:58,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,Fell down,,Did not show up,0
+3/16/2019 14:10,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,1,Yes,"Not great, only defense",0
+3/16/2019 12:32,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,0,Yes,It was really slow,0
+3/16/2019 15:21,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,0,Yes,,0
+3/16/2019 16:35,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,Defense only,0
+3/16/2019 17:10,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/17/2019 9:21,0,2961,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 11:38,2,2988,2,Hatch Panel,Neither,Neither,2,0,0,1,0,0,2,0,6,1,Did not defend,,2,,,#REF!
+3/16/2019 16:21,0,2988,2,Hatch Panel,Cargo Ship,Neither,0,1,0,4,0,1,0,0,0,3,Did not defend,,0,Yes,,#REF!
+3/16/2019 17:37,0,2988,2,Hatch Panel,Rocket,Neither,0,3,0,1,0,0,0,0,0,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 12:25,0,2988,1,Hatch Panel,Cargo Ship,Neither,0,3,0,0,0,1,0,0,0,0,Did not defend,,2,Yes,Pretty good,#REF!
+3/16/2019 12:54,0,2988,2,Hatch Panel,Neither,Neither,0,2,0,1,1,0,0,1,2,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 18:30,0,2988,1,Cargo,Neither,Neither,0,2,0,1,1,0,0,1,2,0,Did not defend,,0,Yes,,#REF!
+3/16/2019 12:24,0,2988,1,Neither,Neither,Neither,0,1,0,1,0,0,0,0,0,0,Did not defend,,2,Yes,,#REF!
+3/17/2019 10:04,0,2988,2,Hatch Panel,Neither,Neither,0,0,0,1,0,0,,,,2,Did not defend,,2,Yes,,#REF!
+3/16/2019 18:16,2,3373,1,Hatch Panel,Rocket,Neither,2,0,0,1,0,0,2,0,6,0,Did not defend,,1,Yes,,#REF!
+3/16/2019 11:02,1,3373,1,Hatch Panel,Rocket,Neither,1,0,0,0,0,0,1,0,3,1,Did not defend,,1,,I could barely keep track of the robot,#REF!
+3/16/2019 17:23,0,3373,1,Hatch Panel,Rocket,Neither,0,0,0,4,0,0,0,0,0,3,Did not defend,,1,Yes,Fan go to lvl 3 rocket hatch,#REF!
+3/16/2019 15:49,0,3373,1,Hatch Panel,Cargo Ship,Neither,0,2,0,1,0,0,0,0,0,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 17:02,0,3373,1,Hatch Panel,Cargo Ship,Neither,0,2,0,1,0,0,0,0,0,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 12:25,0,3373,1,Hatch Panel,Neither,Neither,0,0,0,2,0,1,0,0,0,3,Did not defend,,1,Yes,,#REF!
+3/16/2019 14:02,0,3373,1,Hatch Panel,Neither,Rocket,0,1,0,1,0,1,0,0,0,0,Did not defend,,1,Yes,,#REF!
+3/16/2019 14:54,0,3373,1,Hatch Panel,Rocket,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,0,Yes,Please tell him to sit down,#REF!
+3/16/2019 11:57,4,3389,1,Cargo,Neither,Cargo Ship,4,0,0,0,0,0,4,0,12,0,Did not defend,,1,,,0
+3/17/2019 9:45,4,3389,1,Cargo,Both,Cargo Ship,4,0,0,0,0,0,0,0,0,1,Did not defend,,1,Yes,,0
+3/16/2019 11:10,3,3389,1,Cargo,Neither,Cargo Ship,3,0,0,0,0,0,3,0,9,0,Did not defend,,1,,,0
+3/16/2019 14:02,3,3389,1,Cargo,Neither,Cargo Ship,3,0,0,0,0,0,3,0,9,0,Did not defend,,0,Yes,,0
+3/16/2019 16:54,1,3389,1,Cargo,Neither,Cargo Ship,1,0,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,,0
+3/16/2019 17:30,1,3389,1,Cargo,Neither,Neither,1,0,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,,0
+3/16/2019 11:20,0,3714,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,0,,Absent,0
+3/16/2019 12:55,0,3714,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,,0
+3/17/2019 9:33,0,3719,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/17/2019 9:45,1,3748,2,Hatch Panel,Neither,Neither,1,2,0,0,0,1,0,0,0,0,Did not defend,,1,Yes,,2
+3/16/2019 16:28,0,3748,1,Hatch Panel,Neither,Neither,0,2,0,0,1,1,0,1,2,0,Did not defend,,2,Yes,,2
+3/16/2019 11:38,0,3748,2,Hatch Panel,Neither,Neither,0,1,0,0,0,1,0,0,0,0,Did not defend,,1,,,1
+3/16/2019 14:54,0,3748,2,Hatch Panel,Neither,Neither,0,1,0,0,0,0,0,0,0,0,Did not defend,,0,Yes,,1
+3/16/2019 14:25,0,3798,1,Hatch Panel,Neither,Neither,0,2,0,0,1,0,0,1,2,0,Did not defend,,2,Yes,,2
+3/16/2019 17:38,3,3941,2,Hatch Panel,Neither,Neither,3,1,0,1,0,0,3,0,9,1,Did not defend,,2,Yes,,2
+3/16/2019 16:06,3,3941,2,Hatch Panel,Neither,Neither,3,0,0,0,0,1,3,0,9,0,Did not defend,,2,Yes,,0
+3/16/2019 11:38,2,3941,2,Cargo,Cargo Ship,Neither,2,0,0,0,1,0,2,1,8,0,Did not defend,,1,,,0
+3/16/2019 12:06,1,3941,1,Hatch Panel,Neither,Neither,1,4,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,decent cargo collection,4
+3/16/2019 14:32,0,3941,2,Hatch Panel,Neither,Neither,0,0,0,0,0,1,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 14:40,1,3945,2,Cargo,Neither,Neither,0,0,1,1,0,0,1,1,5,1,Did not defend,,2,Yes,,1
+3/16/2019 15:06,7,4099,2,Hatch Panel,Neither,Neither,4,0,3,1,0,0,7,3,27,2,Did not defend,,1,Yes,,1
+3/16/2019 15:48,3,4099,2,Hatch Panel,Neither,Neither,3,1,0,0,0,1,3,0,9,0,Did not defend,,1,Yes,,1
+3/16/2019 17:11,3,4099,2,Hatch Panel,Neither,Neither,3,1,0,0,0,1,3,0,9,0,Did not defend,,1,Yes,,1
+3/16/2019 17:52,3,4099,2,Hatch Panel,Neither,Neither,3,0,0,0,0,1,3,0,9,0,Poor,,0,Yes,,0
+3/16/2019 11:18,0,4099,2,Hatch Panel,Rocket,Neither,0,0,0,1,0,0,0,0,0,1,Did not defend,,1,,,1
+3/16/2019 11:16,0,4099,2,Hatch Panel,Rocket,Neither,0,0,0,0,0,0,0,0,0,1,Did not defend,,1,,,0
+3/16/2019 14:32,0,4099,2,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,0,Yes,half of wheels broke,0
+3/16/2019 15:00,5,4456,1,Neither,Neither,Neither,3,0,2,4,0,0,5,2,19,3,Did not defend,,3,Yes,"Great cycle time and reach, can climb ",4
+3/16/2019 18:01,5,4456,1,Neither,Neither,Neither,5,0,0,0,0,0,5,0,15,0,Did not defend,,0,Yes,Fell down halfway through match,0
+3/16/2019 16:12,4,4456,1,Neither,Neither,Neither,4,0,0,0,2,0,4,2,16,0,Did not defend,,3,Yes,,0
+3/17/2019 9:21,4,4456,1,Hatch Panel,Neither,Neither,2,0,2,0,1,0,0,0,0,1,Did not defend,,1,Yes,I COULDN'T SEE,0
+3/16/2019 17:16,3,4456,1,Cargo,Neither,Neither,2,0,1,1,0,0,3,1,11,1,Did not defend,,2,Yes,,1
+3/16/2019 11:57,1,4456,1,Cargo,Neither,Neither,1,0,0,0,0,0,1,0,3,0,Did not defend,,0,,,0
+3/16/2019 11:17,0,4456,2,Hatch Panel,Rocket,Neither,0,0,0,1,0,0,0,0,0,0,Mediocre,,1,,"Bad control, couldn't get cargo, wobbly hatch",1
+3/16/2019 12:40,3,4505,2,Hatch Panel,Cargo Ship,Neither,3,1,0,0,0,1,3,0,9,0,Did not defend,,1,Yes,Mechanism broke cargo/hatch halfway through,1
+3/16/2019 11:38,3,4505,2,Cargo,Neither,Cargo Ship,3,0,0,0,1,0,3,1,11,0,Did not defend,,1,,,0
+3/16/2019 12:40,3,4505,2,Hatch Panel,Cargo Ship,Neither,3,0,0,0,0,0,3,0,9,0,Did not defend,,1,Yes,,0
+3/16/2019 14:39,3,4505,2,Hatch Panel,Cargo Ship,Neither,3,0,0,0,1,0,3,1,11,0,Did not defend,,0,Yes,,0
+3/16/2019 17:46,2,4505,2,Hatch Panel,Cargo Ship,Neither,2,2,0,0,0,0,2,0,6,1,Did not defend,,1,Yes,,2
+3/16/2019 14:40,2,4505,2,Hatch Panel,Neither,Neither,2,0,0,1,1,0,2,1,8,1,Did not defend,,1,Yes,,1
+3/17/2019 9:38,1,4505,2,Hatch Panel,Neither,Neither,1,1,0,0,0,0,0,0,0,0,Did not defend,Hatch on ship,1,Yes,,1
+3/16/2019 17:04,1,4505,1,Hatch Panel,Cargo Ship,Neither,1,0,0,0,1,0,1,1,5,0,Good,,1,Yes,,0
+3/16/2019 16:28,0,4505,1,Hatch Panel,Cargo Ship,Neither,0,0,0,0,2,0,0,2,4,0,Mediocre,,1,Yes,,0
+3/16/2019 15:35,3,4541,1,Hatch Panel,Neither,Neither,3,1,0,1,1,0,3,1,11,1,Did not defend,,0,Yes,,2
+3/16/2019 15:15,2,4541,1,Hatch Panel,Neither,Neither,2,1,0,0,3,0,2,3,12,0,Did not defend,,1,Yes,,1
+3/16/2019 11:26,2,4541,1,Hatch Panel,Neither,Neither,2,0,0,0,2,1,2,2,10,0,Did not defend,,1,,Lol,0
+3/16/2019 18:22,2,4541,1,Hatch Panel,Neither,Neither,2,0,0,0,4,0,2,4,14,0,Did not defend,,1,Yes,,0
+3/16/2019 14:33,1,4541,1,Hatch Panel,Neither,Neither,1,0,0,0,1,0,1,1,5,0,Did not defend,,1,Yes,,0
+3/16/2019 17:30,0,4541,1,Cargo,Neither,Neither,0,0,0,0,1,0,0,1,2,0,Did not defend,,1,Yes,,0
+3/17/2019 10:05,0,4541,2,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,Nothing,0,Yes,Disabled???,0
+3/16/2019 12:14,0,4549,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 14:54,0,4618,1,Hatch Panel,Neither,Neither,0,3,0,2,0,0,0,0,0,3,Mediocre,,1,Yes,Reached all levels if the rocket,5
+3/16/2019 15:41,0,4638,2,Hatch Panel,Neither,Neither,0,1,0,5,0,0,0,0,0,3,Did not defend,,1,Yes,Good with hatches,6
+3/16/2019 18:02,0,4638,2,Hatch Panel,Cargo Ship,Neither,0,0,0,5,0,0,0,0,0,3,Did not defend,,1,Yes,Very good hatch mech,5
+3/16/2019 11:10,0,4638,2,Hatch Panel,Cargo Ship,Neither,0,0,0,3,0,1,0,0,0,3,Did not defend,,1,,,3
+3/16/2019 18:43,0,4638,2,Hatch Panel,Rocket,Neither,0,0,0,3,0,0,0,0,0,0,Did not defend,,1,Yes,,3
+3/16/2019 12:56,0,4949,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,1,Yes,,0
+3/16/2019 17:24,0,4949,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 18:30,0,4949,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,0,Yes,,0
+3/16/2019 11:17,3,5243,2,Neither,Neither,Neither,3,0,0,0,1,0,3,1,11,0,Did not defend,,1,,,0
+3/16/2019 14:26,3,5243,2,Hatch Panel,Neither,Neither,3,0,0,0,1,1,3,1,11,0,Did not defend,,0,Yes,Slow mech,0
+3/16/2019 16:48,3,5243,2,Neither,Neither,Neither,2,0,1,0,1,0,3,2,13,3,Did not defend,,1,Yes,"Mediocre at best, hi khang, hi ahbi ",0
+3/16/2019 15:21,1,5243,2,Neither,Neither,Neither,1,0,0,0,1,0,1,1,5,0,Did not defend,,0,Yes,Got stuck ,0
+3/16/2019 18:31,0,5243,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 18:23,0,5338,1,Hatch Panel,Neither,Neither,0,0,0,3,0,1,0,0,0,3,Did not defend,,3,Yes,,3
+3/16/2019 18:43,0,5338,1,Hatch Panel,Neither,Neither,0,0,0,2,0,0,0,0,0,1,Did not defend,,3,Yes,,2
+3/16/2019 12:24,0,5338,1,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,3,Did not defend,,3,Yes,,1
+3/16/2019 14:39,0,5338,1,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,0,Did not defend,,2,Yes,Couldn't pick up the hatch panel,1
+3/16/2019 17:30,0,5338,1,Cargo,Neither,Neither,0,0,0,1,1,0,0,1,2,1,Did not defend,,3,Yes,,1
+3/16/2019 16:06,0,5338,2,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,"Didn’t leave hab, very not great",0
+3/16/2019 14:02,0,5549,1,Hatch Panel,Neither,Neither,0,2,0,0,0,2,0,0,0,0,Did not defend,,1,Yes,Can reach high,2
+3/16/2019 15:21,0,5549,1,Hatch Panel,Neither,Neither,0,1,0,1,0,3,0,0,0,0,Did not defend,,1,Yes,,2
+3/16/2019 16:21,0,5549,1,Hatch Panel,Neither,Neither,0,0,0,2,0,0,0,0,0,2,Did not defend,,0,Yes,Appeared to be reaching for level 3 of the rocket.,2
+3/16/2019 11:38,0,5549,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,1,,Lost a bumper,0
+3/16/2019 15:00,0,5549,1,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,,0
+3/16/2019 15:06,2,5830,1,Cargo,Neither,Neither,2,0,0,0,0,0,2,0,6,0,Did not defend,,2,Yes,"Used a hoop to pick up cargo, doesn’t even work well.",0
+3/17/2019 9:53,2,5830,1,Cargo,Neither,Cargo Ship,2,0,0,0,3,0,0,0,0,0,Did not defend,Do a ball in cargo ship,2,Yes,,0
+3/16/2019 16:55,1,5830,1,Cargo,Neither,Neither,1,0,0,0,1,0,1,1,5,0,Did not defend,,2,Yes,,0
+3/16/2019 18:02,1,5830,1,Cargo,Neither,Neither,1,0,0,0,1,0,1,1,5,0,Did not defend,,2,Yes,,0
+3/16/2019 11:01,0,5830,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,2,,not that good,0
+3/16/2019 14:09,0,5830,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,2,Yes,,0
+3/16/2019 12:55,4,5945,2,Cargo,Neither,Neither,4,0,0,0,0,1,4,0,12,0,Did not defend,,1,Yes,,0
+3/16/2019 17:11,4,5945,2,Neither,Neither,Neither,4,0,0,0,0,0,4,0,12,0,Did not defend,,0,Yes,Pretty good at cargo,0
+3/16/2019 12:06,3,5945,2,Neither,Neither,Neither,3,0,0,0,2,0,3,2,13,0,Did not defend,,0,Yes,Bad,0
+3/16/2019 17:47,2,5945,2,Cargo,Neither,Cargo Ship,2,0,0,0,0,0,2,0,6,0,Did not defend,,1,Yes,,0
+3/16/2019 11:02,1,5945,2,Neither,Neither,Neither,1,2,0,1,0,0,1,0,3,1,Did not defend,,1,,,3
+3/16/2019 15:28,0,5945,2,Neither,Neither,Neither,0,0,0,0,1,0,0,1,2,0,Did not defend,,1,Yes,"Got blocked, gave up/got stuck",0
+3/16/2019 16:12,0,5945,1,Hatch Panel,Neither,Neither,0,0,0,0,0,1,0,0,0,0,Did not defend,,1,Yes,"They had issues, but who hasn’t. Also hi khang, how ya doin",0
+3/17/2019 9:44,0,5945,1,Hatch Panel,Neither,Neither,0,0,0,0,0,1,0,0,0,0,Did not defend,Nothing ,1,Yes,,0
+3/16/2019 12:06,0,6236,2,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,Failed,0
+3/16/2019 11:10,0,6239,2,Hatch Panel,Neither,Neither,0,1,0,6,0,0,0,0,0,3,Did not defend,,2,,,#REF!
+3/16/2019 12:05,0,6239,2,Hatch Panel,Neither,Neither,0,1,0,2,0,1,0,0,0,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 12:40,0,6239,2,Hatch Panel,Rocket,Neither,0,2,0,1,0,1,0,0,0,1,Did not defend,,2,Yes,,#REF!
+3/16/2019 15:55,0,6239,2,Hatch Panel,Neither,Neither,0,1,0,2,0,0,0,0,0,2,Did not defend,,2,Yes,,#REF!
+3/16/2019 16:21,0,6239,1,Hatch Panel,Neither,Neither,0,2,0,1,0,0,0,0,0,0,Did not defend,,2,Yes,,#REF!
+3/17/2019 9:21,0,6239,2,Hatch Panel,Neither,Neither,0,0,0,2,0,1,0,0,0,2,Did not defend,,2,Yes,,#REF!
+3/16/2019 18:09,0,6239,2,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,1,Yes,,#REF!
+3/16/2019 15:27,0,6326,1,Hatch Panel,Neither,Neither,0,8,0,0,0,1,0,0,0,0,Did not defend,,1,Yes,,8
+3/16/2019 18:10,0,6326,2,Hatch Panel,Neither,Neither,0,2,0,0,0,0,0,0,0,0,Mediocre,,1,Yes,,2
+3/16/2019 17:17,0,6326,2,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,1,Poor,,0,Yes,,1
+3/16/2019 15:06,0,6326,2,Hatch Panel,Neither,Neither,0,0,0,1,0,0,0,0,0,1,Did not defend,,1,Yes,,1
+3/17/2019 10:04,0,6326,2,Hatch Panel,Neither,Neither,0,0,0,0,0,1,0,0,0,0,Mediocre,,1,Yes,,0
+3/16/2019 16:34,0,6326,1,Hatch Panel,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,Broke down and gave up halfway through,0
+3/16/2019 17:30,3,6584,1,Cargo,Neither,Neither,3,1,0,0,0,0,3,0,9,0,Did not defend,,1,Yes,Decent,1
+3/16/2019 15:21,2,6584,1,Cargo,Neither,Cargo Ship,2,2,0,0,0,0,2,0,6,0,Did not defend,,1,Yes,,2
+3/16/2019 16:48,1,6584,1,Cargo,Neither,Neither,1,0,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,,0
+3/16/2019 14:18,0,6584,1,Hatch Panel,Neither,Neither,0,3,0,1,0,2,0,0,0,1,Did not defend,,1,Yes,Only focused on hatches,4
+3/16/2019 11:02,0,6584,1,Cargo,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,1,,,0
+3/16/2019 15:27,1,6663,1,Hatch Panel,Cargo Ship,Neither,1,0,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,,0
+3/16/2019 17:53,3,6863,1,Hatch Panel,Cargo Ship,Neither,3,1,0,0,2,0,3,2,13,1,Did not defend,,1,Yes,,1
+3/17/2019 9:46,1,6863,1,Hatch Panel,Neither,Neither,0,1,1,2,0,2,0,0,0,1,Did not defend,,1,Yes,,3
+3/16/2019 12:33,1,6863,1,Hatch Panel,Neither,Neither,1,1,0,0,0,0,1,0,3,0,Did not defend,,1,Yes,,1
+3/16/2019 12:33,1,6863,1,Hatch Panel,Neither,Neither,1,1,0,0,1,0,1,1,5,0,Did not defend,,1,Yes,Slow and innacurate,1
+3/16/2019 16:48,1,6863,1,Hatch Panel,Neither,Neither,1,1,0,0,0,1,1,0,3,0,Did not defend,,1,Yes,,1
+3/16/2019 14:47,0,6863,1,Hatch Panel,Cargo Ship,Neither,0,1,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,,1
+3/16/2019 14:50,0,6863,1,Hatch Panel,Cargo Ship,Neither,0,1,0,0,0,0,0,0,0,0,Did not defend,,1,Yes,,1
+3/16/2019 16:04,6,7770,1,Hatch Panel,Neither,Neither,4,1,2,0,1,1,6,3,24,1,Did not defend,,1,Yes,,1
+3/17/2019 10:12,4,7770,2,Hatch Panel,Neither,Neither,3,1,1,1,0,0,0,0,0,1,Did not defend,Hatch on ship,0,Yes,,2
+3/16/2019 15:15,4,7770,2,Hatch Panel,Neither,Neither,4,0,0,1,0,0,4,0,12,0,Did not defend,,1,Yes,,1
+3/16/2019 16:29,4,7770,1,Cargo,Neither,Cargo Ship,4,0,0,0,0,0,4,0,12,0,Did not defend,,2,Yes,,0
+3/16/2019 11:45,3,7770,2,Hatch Panel,Neither,Neither,3,2,0,0,0,0,3,0,9,0,Did not defend,,1,,decent,2
+3/16/2019 17:10,3,7770,2,Hatch Panel,Cargo Ship,Neither,3,2,0,0,1,0,3,1,11,0,Did not defend,,2,Yes,,2
+3/16/2019 18:02,3,7770,2,Hatch Panel,Neither,Neither,3,0,0,1,0,0,3,0,9,0,Did not defend,,1,Yes,,1
+3/16/2019 14:02,3,7770,2,Hatch Panel,Cargo Ship,Neither,3,0,0,0,1,0,3,1,11,0,Did not defend,,1,Yes,,0
+3/17/2019 9:22,2,7770,1,Hatch Panel,Neither,Neither,2,2,0,0,0,0,0,0,0,2,Did not defend,Put hatch on ship,2,Yes,,2
+3/16/2019 14:18,0,7879,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Poor,,1,Yes,drive train only,0
+3/16/2019 17:53,0,7879,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,,0,Yes,,0
+3/17/2019 9:28,0,7879,2,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Mediocre,it's  defense ,0,Yes,,0
+3/16/2019 11:27,0,7879,1,Neither,Neither,Neither,0,0,0,0,0,0,0,0,0,0,Did not defend,,0,,Did not play this round,0
+3/16/2019 18:16,5,7886,2,Cargo,Neither,Cargo Ship,5,0,0,0,1,0,5,1,17,0,Did not defend,,1,Yes,,0
+3/17/2019 9:45,4,7886,2,Cargo,Neither,Cargo Ship,4,0,0,1,1,0,0,0,0,1,Did not defend,,1,Yes,,1
+3/16/2019 14:27,3,7886,1,Hatch Panel,Cargo Ship,Neither,3,2,0,0,0,0,3,0,9,0,Did not defend,,1,Yes,,2
+3/16/2019 17:37,3,7886,2,Cargo,Neither,Neither,3,0,0,1,1,0,3,1,11,1,Did not defend,,1,Yes,,1
+3/16/2019 11:45,1,7886,1,Hatch Panel,Neither,Neither,1,1,0,1,1,0,1,1,5,1,Did not defend,,1,,,2
+3/16/2019 16:21,1,7886,2,Cargo,Neither,Neither,1,0,0,2,0,0,1,0,3,2,Did not defend,,0,Yes,,2
+3/16/2019 15:35,1,7886,2,Hatch Panel,Neither,Neither,1,1,0,0,1,1,1,1,5,0,Did not defend,,1,Yes,,1
+3/16/2019 14:48,1,7886,1,Cargo,Neither,Cargo Ship,1,0,0,0,0,0,1,0,3,0,Good,,1,Yes,Blocked opp1nts well,0
